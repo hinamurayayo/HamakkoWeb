@@ -24,6 +24,7 @@ WEB系やらゲーム制作やら身内で練習するためのリポジトリ
 * WebServer:Laravel 6.*
 * Framework:Laravel 6.*
 * 言語:Laravel 6.*(PHP)
+* DB:MySQL
 <br>
 
 # 条件
