@@ -21,9 +21,9 @@ WEB系やらゲーム制作やら身内で練習するためのリポジトリ
 ## バックエンド側
 * PhyServer:AWS or VPS(検討中)
 * OS:CentOS(暫定)
-* WebServer:Laravel
-* Framework:Laravel
-* 言語:Laravel(PHP)
+* WebServer:Laravel 6.*
+* Framework:Laravel 6.*
+* 言語:Laravel 6.*(PHP)
 <br>
 
 # 条件
