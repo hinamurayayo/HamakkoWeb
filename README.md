@@ -22,8 +22,8 @@ https://hinapanda.com/<br>
 ## フロントエンド側
 * 未定(bootstrap/vue.jsあたり?)
 ## バックエンド側
-* PhyServer:AWS or VPS(検討中)
-* OS:CentOS(暫定)
+* PhyServer:VPS(2core/1GBmem/ssd50GB)
+* OS:CentOS 7
 * WebServer:Laravel 6.*
 * Framework:Laravel 6.*
 * 言語:Laravel 6.\*(PHP7.4.\*)
