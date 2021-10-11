@@ -23,7 +23,7 @@ WEB系やらゲーム制作やら身内で練習するためのリポジトリ
 * OS:CentOS(暫定)
 * WebServer:Laravel 6.*
 * Framework:Laravel 6.*
-* 言語:Laravel 6.*(PHP)
+* 言語:Laravel 6.*(PHP7.4.*)
 * DB:MySQL
 <br>
 
