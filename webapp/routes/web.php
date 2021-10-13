@@ -12,3 +12,6 @@
 */
 
 Route::get('/', 'IndexController@index');
+
+/* SEO */
+Route::get('/seo', 'SeoController@index');
